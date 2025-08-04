@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class Marksheet extends StatelessWidget {
   const Marksheet({super.key});
-
+  
   @override
   Widget build(BuildContext context) {
     List<String> images = [
